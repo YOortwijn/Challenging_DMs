@@ -1,3 +1,5 @@
+# Quine conceptual network ground truth
+
 The expert constructed ground truth consists of a concentual network of terms in which terms from the index of Quine's Word & Object are categorized as part of one of five clusters (*language*, *ontology*, *reality*, *mind*, *meta-linguistic*) or as a relational term (i.e. part of either the *reference* or *regimentation* relation that connects (parts) of clusters to each other). The resulting ground truth can be found in this folder in a few different formats to allow for easy viewing and easy machine reading. Here a short explanation of the categories will be given with an example of a term clustered in it for each.
 
 ## Clusters

@@ -24,6 +24,7 @@ The tuned models were evaluated against the ground truth with different tasks. T
 - Pia Sommerauer 
 - Francois Meyer
 - Wei Zhou
+- Antske Fokkens
 
 ## Contact
 yvette [dot] oortwijn [at] gmail [dot] com
